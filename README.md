@@ -1,2 +1,2 @@
 # jjustin1.githubCV
-Web Portfolio Cover Letter 
+This website holds the Cover Letter for My Web-Portfolio 
